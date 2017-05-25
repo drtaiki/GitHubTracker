@@ -1,0 +1,15 @@
+.avatar{
+  width:100%;
+}
+
+#center{
+  display: inline-block;
+  text-align: center;
+}
+
+.small_red{
+  width:100px;
+  margin:auto;
+  border-width:3px;
+  border-color:#ffffff;
+}
