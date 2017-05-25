@@ -2,4 +2,4 @@
 
 My first proper attempt on making somewith [JQuery](https://jquery.com).
 
-## Rules
+## Make it your own!
