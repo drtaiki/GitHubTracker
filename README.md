@@ -1,2 +1,1 @@
-# GitHubTracker
-Find githubs' stuff without being on GitHub's site.
+# GitHubTracker [![Build Status]](https://api.travis-ci.org/EverythingC0DE/GitHubTracker.svg?branch=master)](https://travis-ci.org/EverythingC0DE/GitHubTracker)
