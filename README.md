@@ -4,4 +4,4 @@ My first proper attempt on making somewith [JQuery](https://jquery.com).
 
 ## Make it your own!
 
-First of all, you going to need to know the basics of [HTML(https://www.w3schools.com/html/)] including [CSS(https://www.w3schools.com/css/)]
+First of all, you going to need to know the basics of [HTML](https://www.w3schools.com/html/) including [CSS](https://www.w3schools.com/css/)
