@@ -14,4 +14,6 @@ Download [FileZilla](https://filezilla-project.org) and [Git](https://git-scm.co
 
 ## Important
 
-In your website if you do have it uploaded, make sure you have my name on the page, anywhere.
+In your website if you do have it uploaded, make sure you have my name on the page, anywhere for credits.
+
+
